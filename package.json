@@ -22,7 +22,7 @@
   "homepage": "https://github.com/fantasyui-com/uid-files#readme",
   "dependencies": {
     "commander": "^2.20.3",
-    "glob": "^7.1.5",
+    "glob": "^7.1.6",
     "sha": "^2.0.1"
   }
 }
